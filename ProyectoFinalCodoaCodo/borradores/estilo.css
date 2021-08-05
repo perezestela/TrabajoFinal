@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.tablainicio{
+    padding-left: 10%;
+}
+.rotulo{    
+    background-color: #00ff22;
+    text-align: center;
+    text-decoration-color: rgb(255, 255, 255);
+    border: solid;
+    
+}
